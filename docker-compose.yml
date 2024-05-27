@@ -1,0 +1,10 @@
+services:
+  bemaster_service:
+    build: .
+    container_name: bemaster_service
+    network_mode: host
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - "4000:4000"
