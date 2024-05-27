@@ -77,3 +77,6 @@ This project follows the hexagonal architecture pattern, separating concerns int
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Note
+In the folder `exercises`, the answers to the other parts of the test are separated by files and numbered.
